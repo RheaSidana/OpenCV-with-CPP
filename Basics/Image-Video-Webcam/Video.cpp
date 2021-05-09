@@ -33,7 +33,7 @@ void importVideos() {
 		}
 
 		//display the captured image 
-		imshow("Image", img);
+		imshow("Video", img);
 
 		//delay should not be infinity in this case
 		//parameter :  20 ms
