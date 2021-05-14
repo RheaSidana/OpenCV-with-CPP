@@ -21,4 +21,13 @@ Basic <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Resize the image with the help of Percentage <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. Crop the Image by defining the rectangle <br/>
 
+&nbsp;&nbsp;&nbsp; 4. Draw Shapes and Images <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Draw Blank Images : Blue, Black, White, Purple <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Draw Circle on the image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Draw filled Circle on the Image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. Draw Rectangle on the Image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e. Draw Filled Rectangle on the Image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f. Draw a Line on the Image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; g. Draw text on the Image <br/>
+
 &nbsp;&nbsp;&nbsp;
