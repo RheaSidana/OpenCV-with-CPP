@@ -30,4 +30,9 @@ Basic <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f. Draw a Line on the Image <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; g. Draw text on the Image <br/>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; 5. Wrap Perspective <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Find the points of the object <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Map the points to the resultant dimension <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Mark the points selscted on the image <br/>
+
+&nbsp;&nbsp;&nbsp; 
