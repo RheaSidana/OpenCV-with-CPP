@@ -33,6 +33,12 @@ Basic <br/>
 &nbsp;&nbsp;&nbsp; 5. Wrap Perspective <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Find the points of the object <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Map the points to the resultant dimension <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Mark the points selscted on the image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Mark the points selected on the image <br/>
+
+&nbsp;&nbsp;&nbsp; 6. Colour Detection <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. convert the original(rgb) image to HSV image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. detect the colour range using trackbars <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. detect the colour, using the range values extracted from the trackbars <br/>
 
 &nbsp;&nbsp;&nbsp; 
+
