@@ -40,5 +40,13 @@ Basic <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. detect the colour range using trackbars <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. detect the colour, using the range values extracted from the trackbars <br/>
 
-&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 7. Shape Detection <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Pre-Processing: Convert the image to Grey Scale -> Blur -> edge detection -> Dilate image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. determine boundary <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. remove noise <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. find corner points <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e. draw square or rectangle around the shape <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f. display the name of the image <br/>
+
+&nbsp;&nbsp;&nbsp;
 
