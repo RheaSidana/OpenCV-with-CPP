@@ -48,5 +48,10 @@ Basic <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e. draw square or rectangle around the shape <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f. display the name of the image <br/>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; 8. Face Detection <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Import Image <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Cascade image and detect face <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Draw square around the detected face <br/>
+
+&nbsp;&nbsp;&nbsp; 
 
