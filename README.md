@@ -57,8 +57,8 @@ Basic <br/>
 &nbsp;&nbsp;&nbsp; <h4> 1. Virtual Painter </h4> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Import Video Camera <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Detect Sketch Pen Colour using TrackBars <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Select Colour to display corresponding to the detected colour 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. Detect point to display colour 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e. Draw filled circle on the video camera image 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Select Colour to display corresponding to the detected colour <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. Detect point to display colour <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e. Draw filled circle on the video camera image <br/>
 
 
